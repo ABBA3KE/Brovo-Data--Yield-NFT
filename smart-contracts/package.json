@@ -1,0 +1,14 @@
+{
+  "name": "data-yield-contracts",
+  "version": "0.1.0",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js --network localhost"
+  },
+  "devDependencies": {
+    "hardhat": "^2.17.0",
+    "@nomiclabs/hardhat-ethers": "^3.0.0",
+    "ethers": "^6.0.0",
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
