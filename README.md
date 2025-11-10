@@ -1,4 +1,4 @@
-# 🧬 Data-Yield NFT Marketplace
+#  Data-Yield NFT Marketplace
 
 The **Data-Yield NFT Marketplace** is a decentralized platform where data itself becomes an asset.  
 Users can upload valuable datasets, have them securely stored on **Walrus**, verified via **Seal**, and then **minted as NFTs** on our marketplace.  
@@ -6,7 +6,7 @@ Whenever verified entities or companies access the data, NFT holders **earn yiel
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **React + Vite Frontend** with Tailwind CSS  
 - **Smart Contracts (Solidity)** for DataNFTs and yield distribution  
@@ -17,7 +17,7 @@ Whenever verified entities or companies access the data, NFT holders **earn yiel
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 | Layer | Tools / Frameworks |
 |-------|--------------------|
@@ -33,7 +33,7 @@ Whenever verified entities or companies access the data, NFT holders **earn yiel
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/data-yield-nft-marketplace.git
 cd data-yield-nft-marketplace
