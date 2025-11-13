@@ -22,13 +22,20 @@ export default function App() {
 
         <main className="flex-grow">
           <Routes>
-            <Route path="/" element={<Home />} />
+            {/* <Route path="/" element={<Heros />} /> */}
+            <Route path="/" element={<Hero />} />
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/upload" element={<Upload />} />
             <Route path="/wallet" element={<Wallet />} />
           </Routes>
+          
         </main>
 
+         <Steps/>
+        <HowitWorks />
+        <Creatorinvestor/>
+        <Marketplace/>
+       
         <Footer />
       </div>
     </Router>
