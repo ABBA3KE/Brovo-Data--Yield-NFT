@@ -31,7 +31,7 @@ import React from "react";
 import Hero from "../components/Hero";
 import Marketplace from "../components/Marketplace";
 import Steps from "../components/Steps";
-import HowitWorks from "../components/HowitWorks";
+import HowitWorks from "../components/Howitworks";
 import CreatorInvestor from "../components/Creatorinvestor";
 
 export default function Home() {

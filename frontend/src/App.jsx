@@ -5,12 +5,12 @@ import Footer from "./components/Footer";
 import Marketplace from "./components/Marketplace";
 import Hero from "./components/Hero";
 import Steps from "./components/Steps";
-import HowitWorks from "./components/HowitWorks";
+import HowitWorks from "./components/Howitworks";
 import Creatorinvestor from "./components/Creatorinvestor";
 
 // Pages
 import Home from "./pages/Home";
-import Dashboard from "./pages/Dashboard";
+import Dashboard from "./pages/dashboard";
 import Upload from "./pages/Upload";
 import Wallet from "./pages/Wallet";
 
