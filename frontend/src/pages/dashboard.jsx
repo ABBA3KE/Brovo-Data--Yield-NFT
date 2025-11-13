@@ -4,8 +4,9 @@ import React from "react";
 const Dashboard = () => {
   return (
     <div className="min-h-screen bg-[#0b0f19] text-white px-8 py-10">
+
       {/* Header */}
-      <h1 className="text-3xl font-bold mb-8">Analytics Dashboard</h1>
+      <h1 className="text-3xl font-bold mb-8 mt-[30px]">Analytics Dashboard</h1>
 
       {/* Top Stats */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">

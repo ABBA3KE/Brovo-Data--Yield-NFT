@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Hero() {
   return (
-    <section className="text-center py-16 px-4 md:py-24 md:px-8 bg-gray-900 text-gray-100">
+    <section className="text-center py-16 px-4 md:py-24 md:px-8 bg-gray-900 text-gray-100 margin-top 50">
       {/* Heading */}
-      <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mb-4 leading-snug md:leading-tight">
+      <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mb-4 leading-snug md:leading-tight mt-[30px]">
         Monetize Your Data. Earn with Every Use.
       </h1>
 
