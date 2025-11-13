@@ -12,22 +12,22 @@ const Dashboard = () => {
         {/* Total Earnings */}
         <div className="bg-[#151b2b] p-6 rounded-2xl shadow-lg">
           <h2 className="text-gray-400">Total Earnings</h2>
-          <p className="text-3xl font-semibold mt-2">$1,234.56</p>
-          <p className="text-green-400 text-sm mt-1">+5.2%</p>
+          <p className="text-3xl font-semibold mt-2">$0,00.00</p>
+          <p className="text-green-400 text-sm mt-1">+0.0%</p>
         </div>
 
         {/* Average Yield Rate */}
         <div className="bg-[#151b2b] p-6 rounded-2xl shadow-lg">
           <h2 className="text-gray-400">Average Yield Rate</h2>
-          <p className="text-3xl font-semibold mt-2">8.75%</p>
-          <p className="text-green-400 text-sm mt-1">+0.5%</p>
+          <p className="text-3xl font-semibold mt-2">0.00%</p>
+          <p className="text-green-400 text-sm mt-1">+0.0%</p>
         </div>
 
         {/* Staked Assets */}
         <div className="bg-[#151b2b] p-6 rounded-2xl shadow-lg">
           <h2 className="text-gray-400">Staked Assets</h2>
-          <p className="text-3xl font-semibold mt-2">$15,000.00</p>
-          <p className="text-gray-400 text-sm mt-1">12 NFTs Staked</p>
+          <p className="text-3xl font-semibold mt-2">$0,000.00</p>
+          <p className="text-gray-400 text-sm mt-1">00 NFTs Staked</p>
         </div>
       </div>
 
@@ -60,19 +60,19 @@ const Dashboard = () => {
               <span className="flex items-center gap-2">
                 <span className="w-3 h-3 bg-blue-500 rounded-full"></span> Genomic Data
               </span>
-              <span>50%</span>
+              <span>00%</span>
             </li>
             <li className="flex justify-between">
               <span className="flex items-center gap-2">
                 <span className="w-3 h-3 bg-green-500 rounded-full"></span> Financial Data
               </span>
-              <span>30%</span>
+              <span>00%</span>
             </li>
             <li className="flex justify-between">
               <span className="flex items-center gap-2">
                 <span className="w-3 h-3 bg-orange-500 rounded-full"></span> IoT Sensor Data
               </span>
-              <span>20%</span>
+              <span>00%</span>
             </li>
           </ul>
         </div>
