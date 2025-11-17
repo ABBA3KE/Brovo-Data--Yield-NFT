@@ -1,0 +1,15 @@
+[package]
+name = "dataYieldNft"
+edition = "2024.beta"
+license = "MIT"
+authors = ["Your Name <you@email.com>"]
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "main" }
+MoveStdlib = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/move-stdlib", rev = "main" }
+
+[addresses]
+datayieldnft = "0x0"
+
+[dev-dependencies]
+# No MoveStdlib here
